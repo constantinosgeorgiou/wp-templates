@@ -1,0 +1,2 @@
+# wp-templates
+WordPress Templates
